@@ -1,3 +1,3 @@
 # tabi-wordpress
-clone
+clone\n
 docker compose up -d
